@@ -1,3 +1,2 @@
 theme: jekyll-theme-cayman
-{{ site.time | date_to_string }}
-![i love spongebob](/assets/images/Spongebob-squarepant.png "Spongebob")
+title: Surya's Website
